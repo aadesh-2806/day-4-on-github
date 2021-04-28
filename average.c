@@ -9,11 +9,8 @@ void main()
 	
 	printf("hello\nenter no.=");
 	scanf("%d%d",&n,&m);
-	
-		avg(n,m);
-	
+	avg(n,m);
 	getch();
-													//average
 }
 
 void avg(int x,int y)
